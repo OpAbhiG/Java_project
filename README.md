@@ -1,4 +1,4 @@
-# Java_project1
+# Java_project
 
 In this program, we first generate a random number between 1 and 100 using the nextInt() method from the Random class. Then, we create a Scanner object to read the user's input from the console.
 
